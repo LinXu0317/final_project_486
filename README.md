@@ -7,7 +7,9 @@ Language used:
 3.javascript
 
 Installation guide:
-1. For emotion detector: Download all the files in this repository on your computer
+
+
+1. For emotion detector: Download all the files in this repository on your computer(DO NOT INCLUDE THE JSON FILES, THEY ARE MY TEST DATA)
 
 2. For questionnaire building: 
 
