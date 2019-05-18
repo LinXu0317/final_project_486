@@ -3,7 +3,7 @@
 Language used: 
 1. Jquery
 2. html
-3。javascript
+3.javascript
 
 Installation guide:
 1. For emotion detector: Download all the files in this repository on your computer
